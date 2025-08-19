@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevi63&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
   <div style="min-width: 50%">
-    <img align="center" height="180" width="180" src="[https://media1.tenor.com/m/1dD-knrWDCQAAAAd/oguri-cap-oguri.gif](https://tenor.com/es-419/view/ina-ninomae-inanis-inanis-ninomae-hololive-gif-26062571)" alt="Ninomae Inanis gif" />
+    <img align="center" height="180" width="180" src="https://tenor.com/es-419/view/ina-ninomae-inanis-inanis-ninomae-hololive-gif-26062571" alt="Ninomae Inanis gif" />
   </div>
 </div>
 
@@ -34,7 +34,7 @@
 <hr>
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/yazca](https://www.linkedin.com/in/carlos-pinkus)" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-pinkus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
