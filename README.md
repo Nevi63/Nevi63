@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevi63&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
   <div style="min-width: 50%">
-    <img align="center" height="180" width="180" src="https://tenor.com/es-419/view/ina-ninomae-inanis-inanis-ninomae-hololive-gif-26062571" alt="Ninomae Inanis gif" />
+    <img align="center" height="180" width="180" src="https://media1.tenor.com/m/h13SQFX20b0AAAAC/ina-ninomae-inanis.gif" alt="Ninomae Inanis gif" />
   </div>
 </div>
 
