@@ -7,29 +7,33 @@
     <img src="https://github-readme-stats.vercel.app/api?username=nevi63&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevi63&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
-  <div style="min-width: 50%">
-    <img align="center" height="180" width="180" src="https://media1.tenor.com/m/h13SQFX20b0AAAAC/ina-ninomae-inanis.gif" alt="Ninomae Inanis gif" />
-  </div>
 </div>
 
 <hr>
 
 <h3 align="center">Languages and Technologies</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,ts,angular,react" height="60" alt="web technologies" />
+  <img src="https://skillicons.dev/icons?i=html,ts,angular,react,laravel" height="60" alt="web technologies" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,php" height="60" alt="logic technologies" />
+  <img src="https://skillicons.dev/icons?i=cpp,assembly,a,assembly,cs" height="60" alt="logic technologies" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=googlecloud,firebase,azure" height="60" alt="hosting technologies" />
+  <img src="https://skillicons.dev/icons?i=vscode,a,php,a,express" height="60" alt="databases" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongo,cassandra" height="60" alt="databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,a,a,a,mongo" height="60" alt="databases" />
 </div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,googlecloud,firebase,azure,cassandra" height="60" alt="hosting technologies" />
+</div>
+
+
 
 <hr>
 
@@ -38,3 +42,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<hr>
+
+
+  <div style="max-width: 25%,max-height:25%">
+    <img align="center" height="100%" width="100%" src="https://media1.tenor.com/m/h13SQFX20b0AAAAC/ina-ninomae-inanis.gif" alt="Ninomae Inanis gif" />
+  </div>
