@@ -1,6 +1,6 @@
 <h1 align="center">🖐😺🤚</h1>
-<h1 align="center">Hi I'm Nevi or also Pinkus</h1>
-<h3 align="center">Web backend developer</h3>
+<h1 align="center">Hi I'm Pinkus</h1>
+<h3 align="center">Web backend and AI developer</h3>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <div style="margin-right: 24px;">
